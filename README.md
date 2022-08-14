@@ -1,2 +1,2 @@
-# vanillaJS-kenzie-habits
-Página feita em conjunto com outros developers estudantes, com aplicação de vários conceitos, POO, API, etc.
+# capstone-campeoes
+Grupo - Coach  - @Hugo Bler  SC -  @Adam N.  TL -  @Guilherme Teles  @Raphael Silva  @Axel Lima  @Kátya Oliveira
